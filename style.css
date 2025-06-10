@@ -72,7 +72,7 @@ h1 {
 }
 
 button {
-  font-family: balatro;
+  font-family: 'balatro';
   padding: 10px 20px;
   font-size: 1.1em;
   background-color: #fe4e8f;
@@ -87,7 +87,7 @@ button:hover {
 }
 
 #mensaje {
-    font-family: balatro;
+    font-family: 'balatro';
   margin-top: 10px;
   font-size: 1.2em;
 }
@@ -114,7 +114,7 @@ button:hover {
 }
 
 #pregunta-container button {
-  font-family: balatro;
+  font-family: 'balatro';
   margin: 8px;
   padding: 10px 20px;
   font-size: 1em;
