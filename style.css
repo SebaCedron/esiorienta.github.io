@@ -1,7 +1,14 @@
 body {
-  font-family: balatro;
+  font-family: 'balatro', sans-serif;
   background: #f084ac;
   text-align: center;
+}
+
+@font-face {
+  font-family: 'balatro';
+  src: url('balatro.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 h1 {
